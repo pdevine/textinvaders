@@ -1,5 +1,4 @@
-# tetromino
-Text Invaders!
+# Text Invaders!
 by Patrick Devine, 2019-2020
 
 TL;DR - A unicode space shooter based upon class Space Invaders from 1978
